@@ -34,11 +34,4 @@ cacheSolve <- function(x, ...) {
         m
 }
 
-## Delete all this before submitting!
-
-matrix1 <- matrix(1:4, 2)
-makeCacheMatrix(matrix1)
-cacheSolve(makeCacheMatrix(matrix1))
-
-
 
